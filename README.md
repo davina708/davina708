@@ -8,9 +8,10 @@
      
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdavina708&count_bg=%23B667E9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB+VISITORS&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Davina's GitHub stats](https://github-readme-stats.vercel.app/api?username=davina708&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/davina708/github-readme-stats)
+[![Davina's GitHub stats](https://github-readme-stats-gamma-inky-24.vercel.app/api?username=davina708&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/davina708/github-readme-stats)
+ 
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=davina708&layout=compact&show_icons=true&theme=tokyonight" />
+  <img align="top" src="https://github-readme-stats-gamma-inky-24.vercel.app/api/top-langs?username=davina708&layout=compact&show_icons=true&theme=tokyonight" />
 </a>
  
 <br>
